@@ -1,0 +1,2744 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:45:11] filterscripts = ""  (string)
+[08:45:11] 
+[08:45:11] Server Plugins
+[08:45:11] --------------
+[08:45:11]  Loading plugin: mysql
+[08:45:11]   Failed.
+[08:45:11]  Loading plugin: streamer
+[08:45:11] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[08:45:11]   Loaded.
+[08:45:11]  Loading plugin: sscanf
+[08:45:11]   Failed.
+[08:45:11]  Loaded 1 plugins.
+
+[08:45:11] 
+[08:45:11] Filterscripts
+[08:45:11] ---------------
+[08:45:11]   Loaded 0 filterscripts.
+
+[08:45:11] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[08:45:11] Number of vehicle models: 0
+[08:45:19] --- Server Shutting Down.
+[08:45:19] 
+
+*** Streamer Plugin v2.7.9 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:45:41] filterscripts = ""  (string)
+[08:45:41] 
+[08:45:41] Server Plugins
+[08:45:41] --------------
+[08:45:41]  Loading plugin: mysql
+[08:45:41]   Failed.
+[08:45:41]  Loading plugin: streamer
+[08:45:41] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[08:45:41]   Loaded.
+[08:45:41]  Loading plugin: sscanf
+[08:45:41]   Failed.
+[08:45:41]  Loaded 1 plugins.
+
+[08:45:41] 
+[08:45:41] Filterscripts
+[08:45:41] ---------------
+[08:45:41]   Loaded 0 filterscripts.
+
+[08:45:41] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[08:45:41] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:47:24] filterscripts = ""  (string)
+[08:47:24] 
+[08:47:24] Server Plugins
+[08:47:24] --------------
+[08:47:24]  Loading plugin: mysql
+[08:47:24]   Failed.
+[08:47:24]  Loading plugin: streamer
+[08:47:24] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[08:47:24]   Loaded.
+[08:47:24]  Loading plugin: sscanf
+[08:47:24]   Failed.
+[08:47:24]  Loaded 1 plugins.
+
+[08:47:24] 
+[08:47:24] Filterscripts
+[08:47:24] ---------------
+[08:47:24]   Loaded 0 filterscripts.
+
+[08:47:24] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[08:47:24] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:47:46] filterscripts = ""  (string)
+[08:47:46] 
+[08:47:46] Server Plugins
+[08:47:46] --------------
+[08:47:46]  Loading plugin: mysql
+[08:47:46]   Failed.
+[08:47:46]  Loading plugin: streamer
+[08:47:46] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[08:47:46]   Loaded.
+[08:47:46]  Loading plugin: sscanf
+[08:47:46] 
+
+[08:47:46]  ===============================
+
+[08:47:46]       sscanf plugin loaded.     
+
+[08:47:46]          Version:  2.8.1        
+
+[08:47:46]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:47:46]  ===============================
+
+[08:47:46]   Loaded.
+[08:47:46]  Loaded 2 plugins.
+
+[08:47:46] 
+[08:47:46] Filterscripts
+[08:47:46] ---------------
+[08:47:46]   Loaded 0 filterscripts.
+
+[08:47:46] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[08:47:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:48:18] filterscripts = ""  (string)
+[08:48:18] 
+[08:48:18] Server Plugins
+[08:48:18] --------------
+[08:48:18]  Loading plugin: mysql
+[08:48:18]   Failed.
+[08:48:18]  Loading plugin: streamer
+[08:48:18] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[08:48:18]   Loaded.
+[08:48:18]  Loading plugin: sscanf
+[08:48:18] 
+
+[08:48:18]  ===============================
+
+[08:48:18]       sscanf plugin loaded.     
+
+[08:48:18]          Version:  2.8.1        
+
+[08:48:18]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:48:18]  ===============================
+
+[08:48:18]   Loaded.
+[08:48:18]  Loaded 2 plugins.
+
+[08:48:18] 
+[08:48:18] Filterscripts
+[08:48:18] ---------------
+[08:48:18]   Loaded 0 filterscripts.
+
+[08:48:18] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[08:48:18] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:48:31] filterscripts = ""  (string)
+[08:48:31] 
+[08:48:31] Server Plugins
+[08:48:31] --------------
+[08:48:31]  Loading plugin: mysql
+[08:48:31]   Failed.
+[08:48:31]  Loading plugin: streamer
+[08:48:31] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[08:48:31]   Loaded.
+[08:48:31]  Loading plugin: sscanf
+[08:48:31] 
+
+[08:48:31]  ===============================
+
+[08:48:31]       sscanf plugin loaded.     
+
+[08:48:31]          Version:  2.8.1        
+
+[08:48:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:48:31]  ===============================
+
+[08:48:31]   Loaded.
+[08:48:31]  Loaded 2 plugins.
+
+[08:48:31] 
+[08:48:31] Filterscripts
+[08:48:31] ---------------
+[08:48:31]   Loaded 0 filterscripts.
+
+[08:48:31] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[08:48:31] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:48:45] filterscripts = ""  (string)
+[08:48:45] 
+[08:48:45] Server Plugins
+[08:48:45] --------------
+[08:48:45]  Loading plugin: mysql
+[08:48:45]   Failed.
+[08:48:45]  Loading plugin: streamer
+[08:48:45] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[08:48:45]   Loaded.
+[08:48:45]  Loading plugin: sscanf
+[08:48:45] 
+
+[08:48:45]  ===============================
+
+[08:48:45]       sscanf plugin loaded.     
+
+[08:48:45]          Version:  2.8.1        
+
+[08:48:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:48:45]  ===============================
+
+[08:48:45]   Loaded.
+[08:48:45]  Loaded 2 plugins.
+
+[08:48:45] 
+[08:48:45] Filterscripts
+[08:48:45] ---------------
+[08:48:45]   Loaded 0 filterscripts.
+
+[08:48:45] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[08:48:45] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:54:10] filterscripts = ""  (string)
+[08:54:10] 
+[08:54:10] Server Plugins
+[08:54:10] --------------
+[08:54:10]  Loading plugin: mysql
+[08:54:10]   Failed.
+[08:54:10]  Loading plugin: streamer
+[08:54:10] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[08:54:10]   Loaded.
+[08:54:10]  Loading plugin: sscanf
+[08:54:10] 
+
+[08:54:10]  ===============================
+
+[08:54:10]       sscanf plugin loaded.     
+
+[08:54:10]          Version:  2.8.1        
+
+[08:54:10]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:54:10]  ===============================
+
+[08:54:10]   Loaded.
+[08:54:10]  Loaded 2 plugins.
+
+[08:54:10] 
+[08:54:10] Filterscripts
+[08:54:10] ---------------
+[08:54:10]   Loaded 0 filterscripts.
+
+[08:54:10] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[08:54:10] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:54:43] filterscripts = ""  (string)
+[08:54:43] 
+[08:54:43] Server Plugins
+[08:54:43] --------------
+[08:54:43]  Loading plugin: mysql
+[08:54:43]   Failed.
+[08:54:43]  Loading plugin: streamer
+[08:54:43] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[08:54:43]   Loaded.
+[08:54:43]  Loading plugin: sscanf
+[08:54:43] 
+
+[08:54:43]  ===============================
+
+[08:54:43]       sscanf plugin loaded.     
+
+[08:54:43]          Version:  2.8.1        
+
+[08:54:43]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:54:43]  ===============================
+
+[08:54:43]   Loaded.
+[08:54:43]  Loaded 2 plugins.
+
+[08:54:43] 
+[08:54:43] Filterscripts
+[08:54:43] ---------------
+[08:54:43]   Loaded 0 filterscripts.
+
+[08:54:43] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[08:54:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:01:07] filterscripts = ""  (string)
+[09:01:07] 
+[09:01:07] Server Plugins
+[09:01:07] --------------
+[09:01:07]  Loading plugin: mysql
+[09:01:07]   Failed.
+[09:01:07]  Loading plugin: streamer
+[09:01:07] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[09:01:07]   Loaded.
+[09:01:07]  Loading plugin: sscanf
+[09:01:07] 
+
+[09:01:07]  ===============================
+
+[09:01:07]       sscanf plugin loaded.     
+
+[09:01:07]          Version:  2.8.1        
+
+[09:01:07]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:01:07]  ===============================
+
+[09:01:07]   Loaded.
+[09:01:07]  Loaded 2 plugins.
+
+[09:01:07] 
+[09:01:07] Filterscripts
+[09:01:07] ---------------
+[09:01:07]   Loaded 0 filterscripts.
+
+[09:01:07] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[09:01:07] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:01:21] filterscripts = ""  (string)
+[09:01:21] 
+[09:01:21] Server Plugins
+[09:01:21] --------------
+[09:01:21]  Loading plugin: mysql
+[09:01:21]   Failed.
+[09:01:21]  Loading plugin: streamer
+[09:01:21] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[09:01:21]   Loaded.
+[09:01:21]  Loading plugin: sscanf
+[09:01:21] 
+
+[09:01:21]  ===============================
+
+[09:01:21]       sscanf plugin loaded.     
+
+[09:01:21]          Version:  2.8.1        
+
+[09:01:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:01:21]  ===============================
+
+[09:01:21]   Loaded.
+[09:01:21]  Loaded 2 plugins.
+
+[09:01:22] 
+[09:01:22] Filterscripts
+[09:01:22] ---------------
+[09:01:22]   Loaded 0 filterscripts.
+
+[09:01:22] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[09:01:22] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:01:52] filterscripts = ""  (string)
+[09:01:52] 
+[09:01:52] Server Plugins
+[09:01:52] --------------
+[09:01:52]  Loading plugin: mysql
+[09:01:52]   Failed.
+[09:01:52]  Loading plugin: streamer
+[09:01:52] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[09:01:52]   Loaded.
+[09:01:52]  Loading plugin: sscanf
+[09:01:52] 
+
+[09:01:52]  ===============================
+
+[09:01:52]       sscanf plugin loaded.     
+
+[09:01:52]          Version:  2.8.1        
+
+[09:01:52]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:01:52]  ===============================
+
+[09:01:52]   Loaded.
+[09:01:52]  Loaded 2 plugins.
+
+[09:01:53] 
+[09:01:53] Filterscripts
+[09:01:53] ---------------
+[09:01:53]   Loaded 0 filterscripts.
+
+[09:01:53] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[09:01:53] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:04:22] filterscripts = ""  (string)
+[09:04:22] 
+[09:04:22] Server Plugins
+[09:04:22] --------------
+[09:04:22]  Loading plugin: mysql
+[09:04:22]   Failed.
+[09:04:22]  Loading plugin: streamer
+[09:04:22] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[09:04:22]   Loaded.
+[09:04:22]  Loading plugin: sscanf
+[09:04:22] 
+
+[09:04:22]  ===============================
+
+[09:04:22]       sscanf plugin loaded.     
+
+[09:04:22]          Version:  2.8.1        
+
+[09:04:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:04:22]  ===============================
+
+[09:04:22]   Loaded.
+[09:04:22]  Loaded 2 plugins.
+
+[09:04:22] 
+[09:04:22] Filterscripts
+[09:04:22] ---------------
+[09:04:22]   Loaded 0 filterscripts.
+
+[09:04:22] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[09:04:22] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:05:11] filterscripts = ""  (string)
+[09:05:11] 
+[09:05:11] Server Plugins
+[09:05:11] --------------
+[09:05:11]  Loading plugin: mysql
+[09:05:11]  >> plugin.mysql: R39-3 successfully loaded.
+[09:05:11]   Loaded.
+[09:05:11]  Loading plugin: streamer
+[09:05:11] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[09:05:11]   Loaded.
+[09:05:11]  Loading plugin: sscanf
+[09:05:11] 
+
+[09:05:11]  ===============================
+
+[09:05:11]       sscanf plugin loaded.     
+
+[09:05:11]          Version:  2.8.1        
+
+[09:05:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:05:11]  ===============================
+
+[09:05:11]   Loaded.
+[09:05:11]  Loaded 3 plugins.
+
+[09:05:11] 
+[09:05:11] Filterscripts
+[09:05:11] ---------------
+[09:05:11]   Loaded 0 filterscripts.
+
+[09:05:13] Conectiunea la baza de date nu a reusit!
+[09:05:13] 
+----------------------------------
+[09:05:13]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[09:05:13] ----------------------------------
+
+[09:05:13] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:05:38] filterscripts = ""  (string)
+[09:05:38] 
+[09:05:38] Server Plugins
+[09:05:38] --------------
+[09:05:38]  Loading plugin: mysql
+[09:05:38]  >> plugin.mysql: R39-3 successfully loaded.
+[09:05:38]   Loaded.
+[09:05:38]  Loading plugin: streamer
+[09:05:38] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[09:05:38]   Loaded.
+[09:05:38]  Loading plugin: sscanf
+[09:05:38] 
+
+[09:05:38]  ===============================
+
+[09:05:38]       sscanf plugin loaded.     
+
+[09:05:38]          Version:  2.8.1        
+
+[09:05:38]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:05:38]  ===============================
+
+[09:05:38]   Loaded.
+[09:05:38]  Loaded 3 plugins.
+
+[09:05:38] 
+[09:05:38] Filterscripts
+[09:05:38] ---------------
+[09:05:38]   Loaded 0 filterscripts.
+
+[09:05:39] Conectiunea la baza de date nu a reusit!
+[09:05:39] 
+----------------------------------
+[09:05:39]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[09:05:39] ----------------------------------
+
+[09:05:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:05:57] filterscripts = ""  (string)
+[09:05:57] 
+[09:05:57] Server Plugins
+[09:05:57] --------------
+[09:05:57]  Loading plugin: mysql
+[09:05:57]  >> plugin.mysql: R39-3 successfully loaded.
+[09:05:57]   Loaded.
+[09:05:57]  Loading plugin: streamer
+[09:05:57] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[09:05:57]   Loaded.
+[09:05:57]  Loading plugin: sscanf
+[09:05:57] 
+
+[09:05:57]  ===============================
+
+[09:05:57]       sscanf plugin loaded.     
+
+[09:05:57]          Version:  2.8.1        
+
+[09:05:57]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:05:57]  ===============================
+
+[09:05:57]   Loaded.
+[09:05:57]  Loaded 3 plugins.
+
+[09:05:57] 
+[09:05:57] Filterscripts
+[09:05:57] ---------------
+[09:05:57]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:06:15] filterscripts = ""  (string)
+[09:06:15] 
+[09:06:15] Server Plugins
+[09:06:15] --------------
+[09:06:15]  Loading plugin: mysql
+[09:06:15]  >> plugin.mysql: R39-3 successfully loaded.
+[09:06:15]   Loaded.
+[09:06:15]  Loading plugin: streamer
+[09:06:15] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[09:06:15]   Loaded.
+[09:06:15]  Loading plugin: sscanf
+[09:06:15] 
+
+[09:06:15]  ===============================
+
+[09:06:15]       sscanf plugin loaded.     
+
+[09:06:15]          Version:  2.8.1        
+
+[09:06:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:06:15]  ===============================
+
+[09:06:15]   Loaded.
+[09:06:15]  Loaded 3 plugins.
+
+[09:06:15] 
+[09:06:15] Filterscripts
+[09:06:15] ---------------
+[09:06:15]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:08:46] filterscripts = ""  (string)
+[09:08:46] 
+[09:08:46] Server Plugins
+[09:08:46] --------------
+[09:08:46]  Loading plugin: mysql
+[09:08:46]  >> plugin.mysql: R39-3 successfully loaded.
+[09:08:46]   Loaded.
+[09:08:46]  Loading plugin: streamer
+[09:08:46] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[09:08:46]   Loaded.
+[09:08:46]  Loading plugin: sscanf
+[09:08:46] 
+
+[09:08:46]  ===============================
+
+[09:08:46]       sscanf plugin loaded.     
+
+[09:08:46]          Version:  2.8.1        
+
+[09:08:46]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:08:46]  ===============================
+
+[09:08:46]   Loaded.
+[09:08:46]  Loaded 3 plugins.
+
+[09:08:46] 
+[09:08:46] Filterscripts
+[09:08:46] ---------------
+[09:08:46]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:08:57] filterscripts = ""  (string)
+[09:08:57] 
+[09:08:57] Server Plugins
+[09:08:57] --------------
+[09:08:57]  Loading plugin: mysql
+[09:08:57]  >> plugin.mysql: R39-3 successfully loaded.
+[09:08:57]   Loaded.
+[09:08:57]  Loading plugin: streamer
+[09:08:57] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[09:08:57]   Loaded.
+[09:08:57]  Loading plugin: sscanf
+[09:08:57] 
+
+[09:08:57]  ===============================
+
+[09:08:57]       sscanf plugin loaded.     
+
+[09:08:57]          Version:  2.8.1        
+
+[09:08:57]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:08:57]  ===============================
+
+[09:08:57]   Loaded.
+[09:08:57]  Loaded 3 plugins.
+
+[09:08:57] 
+[09:08:57] Filterscripts
+[09:08:57] ---------------
+[09:08:57]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:09:21] filterscripts = ""  (string)
+[09:09:21] 
+[09:09:21] Server Plugins
+[09:09:21] --------------
+[09:09:21]  Loading plugin: mysql
+[09:09:21]  >> plugin.mysql: R39-3 successfully loaded.
+[09:09:21]   Loaded.
+[09:09:21]  Loading plugin: streamer
+[09:09:21] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[09:09:21]   Loaded.
+[09:09:21]  Loading plugin: sscanf
+[09:09:21] 
+
+[09:09:21]  ===============================
+
+[09:09:21]       sscanf plugin loaded.     
+
+[09:09:21]          Version:  2.8.1        
+
+[09:09:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:09:21]  ===============================
+
+[09:09:21]   Loaded.
+[09:09:21]  Loaded 3 plugins.
+
+[09:09:21] 
+[09:09:21] Filterscripts
+[09:09:21] ---------------
+[09:09:21]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:09:56] filterscripts = ""  (string)
+[09:09:56] 
+[09:09:56] Server Plugins
+[09:09:56] --------------
+[09:09:56]  Loading plugin: mysql
+[09:09:56]  >> plugin.mysql: R39-3 successfully loaded.
+[09:09:56]   Loaded.
+[09:09:56]  Loading plugin: streamer
+[09:09:56] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[09:09:56]   Loaded.
+[09:09:56]  Loading plugin: sscanf
+[09:09:56] 
+
+[09:09:56]  ===============================
+
+[09:09:56]       sscanf plugin loaded.     
+
+[09:09:56]          Version:  2.8.1        
+
+[09:09:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:09:56]  ===============================
+
+[09:09:56]   Loaded.
+[09:09:56]  Loaded 3 plugins.
+
+[09:09:56] 
+[09:09:56] Filterscripts
+[09:09:56] ---------------
+[09:09:56]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:10:17] filterscripts = ""  (string)
+[09:10:17] 
+[09:10:17] Server Plugins
+[09:10:17] --------------
+[09:10:17]  Loading plugin: mysql
+[09:10:17]  >> plugin.mysql: R39-3 successfully loaded.
+[09:10:17]   Loaded.
+[09:10:17]  Loading plugin: streamer
+[09:10:17] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[09:10:17]   Loaded.
+[09:10:17]  Loading plugin: sscanf
+[09:10:17] 
+
+[09:10:17]  ===============================
+
+[09:10:17]       sscanf plugin loaded.     
+
+[09:10:17]          Version:  2.8.1        
+
+[09:10:17]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:10:17]  ===============================
+
+[09:10:17]   Loaded.
+[09:10:17]  Loaded 3 plugins.
+
+[09:10:17] 
+[09:10:17] Filterscripts
+[09:10:17] ---------------
+[09:10:17]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:10:33] filterscripts = ""  (string)
+[09:10:33] 
+[09:10:33] Server Plugins
+[09:10:33] --------------
+[09:10:33]  Loading plugin: mysql
+[09:10:33]  >> plugin.mysql: R39-3 successfully loaded.
+[09:10:33]   Loaded.
+[09:10:33]  Loading plugin: streamer
+[09:10:33] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[09:10:33]   Loaded.
+[09:10:33]  Loading plugin: sscanf
+[09:10:33] 
+
+[09:10:33]  ===============================
+
+[09:10:33]       sscanf plugin loaded.     
+
+[09:10:33]          Version:  2.8.1        
+
+[09:10:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:10:33]  ===============================
+
+[09:10:33]   Loaded.
+[09:10:33]  Loaded 3 plugins.
+
+[09:10:33] 
+[09:10:33] Filterscripts
+[09:10:33] ---------------
+[09:10:33]   Loaded 0 filterscripts.
+
+[09:10:34] 
+----------------------------------
+[09:10:34]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[09:10:34] ----------------------------------
+
+[09:10:34] Number of vehicle models: 0
+[09:11:58] [connection] 10.183.224.178:61100 requests connection cookie.
+[09:11:59] [connection] incoming connection: 10.183.224.178:61100 id: 0
+[09:11:59] [join] [RW]Robi has joined the server (0:10.183.224.178)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:12:36] filterscripts = ""  (string)
+[09:12:36] 
+[09:12:36] Server Plugins
+[09:12:36] --------------
+[09:12:36]  Loading plugin: mysql
+[09:12:36]  >> plugin.mysql: R39-3 successfully loaded.
+[09:12:36]   Loaded.
+[09:12:36]  Loading plugin: streamer
+[09:12:36] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[09:12:36]   Loaded.
+[09:12:36]  Loading plugin: sscanf
+[09:12:36] 
+
+[09:12:36]  ===============================
+
+[09:12:36]       sscanf plugin loaded.     
+
+[09:12:36]          Version:  2.8.1        
+
+[09:12:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:12:36]  ===============================
+
+[09:12:36]   Loaded.
+[09:12:36]  Loaded 3 plugins.
+
+[09:12:36] 
+[09:12:36] Filterscripts
+[09:12:36] ---------------
+[09:12:36]   Loaded 0 filterscripts.
+
+[09:12:40] 
+----------------------------------
+[09:12:40]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[09:12:40] ----------------------------------
+
+[09:12:40] Number of vehicle models: 0
+[09:12:52] [connection] 10.183.224.178:56769 requests connection cookie.
+[09:12:53] [connection] incoming connection: 10.183.224.178:56769 id: 0
+[09:12:53] [join] [RW]Robi has joined the server (0:10.183.224.178)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:39:14] filterscripts = ""  (string)
+[09:39:14] 
+[09:39:14] Server Plugins
+[09:39:14] --------------
+[09:39:14]  Loading plugin: mysql
+[09:39:14]  >> plugin.mysql: R39-3 successfully loaded.
+[09:39:14]   Loaded.
+[09:39:14]  Loading plugin: streamer
+[09:39:14] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[09:39:14]   Loaded.
+[09:39:14]  Loading plugin: sscanf
+[09:39:14] 
+
+[09:39:14]  ===============================
+
+[09:39:14]       sscanf plugin loaded.     
+
+[09:39:14]          Version:  2.8.1        
+
+[09:39:14]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:39:14]  ===============================
+
+[09:39:14]   Loaded.
+[09:39:14]  Loaded 3 plugins.
+
+[09:39:14] 
+[09:39:14] Filterscripts
+[09:39:14] ---------------
+[09:39:14]   Loaded 0 filterscripts.
+
+[09:39:15] 
+----------------------------------
+[09:39:15]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[09:39:15] ----------------------------------
+
+[09:39:15] Number of vehicle models: 0
+[09:39:29] [connection] 10.183.224.178:58671 requests connection cookie.
+[09:39:30] [connection] incoming connection: 10.183.224.178:58671 id: 0
+[09:39:30] [join] [RW]Robi has joined the server (0:10.183.224.178)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:42:51] filterscripts = ""  (string)
+[09:42:51] 
+[09:42:51] Server Plugins
+[09:42:51] --------------
+[09:42:51]  Loading plugin: mysql
+[09:42:51]  >> plugin.mysql: R39-3 successfully loaded.
+[09:42:51]   Loaded.
+[09:42:51]  Loading plugin: streamer
+[09:42:51] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[09:42:51]   Loaded.
+[09:42:51]  Loading plugin: sscanf
+[09:42:51] 
+
+[09:42:51]  ===============================
+
+[09:42:51]       sscanf plugin loaded.     
+
+[09:42:51]          Version:  2.8.1        
+
+[09:42:51]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:42:51]  ===============================
+
+[09:42:51]   Loaded.
+[09:42:51]  Loaded 3 plugins.
+
+[09:42:51] 
+[09:42:51] Filterscripts
+[09:42:51] ---------------
+[09:42:51]   Loaded 0 filterscripts.
+
+[09:42:51] 
+----------------------------------
+[09:42:51]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[09:42:51] ----------------------------------
+
+[09:42:51] Number of vehicle models: 0
+[09:42:56] [connection] 10.183.224.178:62045 requests connection cookie.
+[09:42:57] [connection] incoming connection: 10.183.224.178:62045 id: 0
+[09:42:57] [join] [RW]Robi has joined the server (0:10.183.224.178)
+[09:43:16] [part] [RW]Robi has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:07:36] filterscripts = ""  (string)
+[10:07:36] 
+[10:07:36] Server Plugins
+[10:07:36] --------------
+[10:07:36]  Loading plugin: mysql
+[10:07:36]  >> plugin.mysql: R39-3 successfully loaded.
+[10:07:36]   Loaded.
+[10:07:36]  Loading plugin: streamer
+[10:07:36] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:07:36]   Loaded.
+[10:07:36]  Loading plugin: sscanf
+[10:07:36] 
+
+[10:07:36]  ===============================
+
+[10:07:36]       sscanf plugin loaded.     
+
+[10:07:36]          Version:  2.8.1        
+
+[10:07:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:07:36]  ===============================
+
+[10:07:36]   Loaded.
+[10:07:36]  Loaded 3 plugins.
+
+[10:07:36] 
+[10:07:36] Filterscripts
+[10:07:36] ---------------
+[10:07:36]   Loaded 0 filterscripts.
+
+[10:07:36] 
+----------------------------------
+[10:07:36]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[10:07:36] ----------------------------------
+
+[10:07:36] Number of vehicle models: 0
+[10:08:03] [connection] 10.183.224.178:57696 requests connection cookie.
+[10:08:04] [connection] incoming connection: 10.183.224.178:57696 id: 0
+[10:08:04] [join] [RW]Robi has joined the server (0:10.183.224.178)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:11:34] filterscripts = ""  (string)
+[10:11:34] 
+[10:11:34] Server Plugins
+[10:11:34] --------------
+[10:11:34]  Loading plugin: mysql
+[10:11:34]  >> plugin.mysql: R39-3 successfully loaded.
+[10:11:34]   Loaded.
+[10:11:34]  Loading plugin: streamer
+[10:11:34] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:11:34]   Loaded.
+[10:11:34]  Loading plugin: sscanf
+[10:11:34] 
+
+[10:11:34]  ===============================
+
+[10:11:34]       sscanf plugin loaded.     
+
+[10:11:34]          Version:  2.8.1        
+
+[10:11:34]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:11:34]  ===============================
+
+[10:11:34]   Loaded.
+[10:11:34]  Loaded 3 plugins.
+
+[10:11:34] 
+[10:11:34] Filterscripts
+[10:11:34] ---------------
+[10:11:34]   Loaded 0 filterscripts.
+
+[10:11:34] 
+----------------------------------
+[10:11:34]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[10:11:34] ----------------------------------
+
+[10:11:34] Number of vehicle models: 0
+[10:11:40] [connection] 10.183.224.178:60411 requests connection cookie.
+[10:11:41] [connection] incoming connection: 10.183.224.178:60411 id: 0
+[10:11:41] [join] [RW]Robi has joined the server (0:10.183.224.178)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:13:15] filterscripts = ""  (string)
+[10:13:15] 
+[10:13:15] Server Plugins
+[10:13:15] --------------
+[10:13:15]  Loading plugin: mysql
+[10:13:15]  >> plugin.mysql: R39-3 successfully loaded.
+[10:13:15]   Loaded.
+[10:13:15]  Loading plugin: streamer
+[10:13:15] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:13:15]   Loaded.
+[10:13:15]  Loading plugin: sscanf
+[10:13:15] 
+
+[10:13:15]  ===============================
+
+[10:13:15]       sscanf plugin loaded.     
+
+[10:13:15]          Version:  2.8.1        
+
+[10:13:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:13:15]  ===============================
+
+[10:13:15]   Loaded.
+[10:13:15]  Loaded 3 plugins.
+
+[10:13:15] 
+[10:13:15] Filterscripts
+[10:13:15] ---------------
+[10:13:15]   Loaded 0 filterscripts.
+
+[10:13:15] 
+----------------------------------
+[10:13:15]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[10:13:15] ----------------------------------
+
+[10:13:15] Number of vehicle models: 0
+[10:13:27] [connection] 10.183.224.178:63430 requests connection cookie.
+[10:13:28] [connection] incoming connection: 10.183.224.178:63430 id: 0
+[10:13:28] [join] [RW]Robi has joined the server (0:10.183.224.178)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:14:45] filterscripts = ""  (string)
+[10:14:45] 
+[10:14:45] Server Plugins
+[10:14:45] --------------
+[10:14:45]  Loading plugin: mysql
+[10:14:45]  >> plugin.mysql: R39-3 successfully loaded.
+[10:14:45]   Loaded.
+[10:14:45]  Loading plugin: streamer
+[10:14:45] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:14:45]   Loaded.
+[10:14:45]  Loading plugin: sscanf
+[10:14:45] 
+
+[10:14:45]  ===============================
+
+[10:14:45]       sscanf plugin loaded.     
+
+[10:14:45]          Version:  2.8.1        
+
+[10:14:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:14:45]  ===============================
+
+[10:14:45]   Loaded.
+[10:14:45]  Loaded 3 plugins.
+
+[10:14:45] 
+[10:14:45] Filterscripts
+[10:14:45] ---------------
+[10:14:45]   Loaded 0 filterscripts.
+
+[10:14:45] 
+----------------------------------
+[10:14:45]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[10:14:45] ----------------------------------
+
+[10:14:45] Number of vehicle models: 0
+[10:14:51] [connection] 10.183.224.178:54707 requests connection cookie.
+[10:14:52] [connection] incoming connection: 10.183.224.178:54707 id: 0
+[10:14:52] [join] [RW]Robi has joined the server (0:10.183.224.178)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:15:14] filterscripts = ""  (string)
+[10:15:14] 
+[10:15:14] Server Plugins
+[10:15:14] --------------
+[10:15:14]  Loading plugin: mysql
+[10:15:14]  >> plugin.mysql: R39-3 successfully loaded.
+[10:15:14]   Loaded.
+[10:15:14]  Loading plugin: streamer
+[10:15:14] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:15:14]   Loaded.
+[10:15:14]  Loading plugin: sscanf
+[10:15:14] 
+
+[10:15:14]  ===============================
+
+[10:15:14]       sscanf plugin loaded.     
+
+[10:15:14]          Version:  2.8.1        
+
+[10:15:14]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:15:14]  ===============================
+
+[10:15:14]   Loaded.
+[10:15:14]  Loaded 3 plugins.
+
+[10:15:14] 
+[10:15:14] Filterscripts
+[10:15:14] ---------------
+[10:15:14]   Loaded 0 filterscripts.
+
+[10:15:14] 
+----------------------------------
+[10:15:14]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[10:15:14] ----------------------------------
+
+[10:15:14] Number of vehicle models: 0
+[10:15:34] [connection] 10.183.224.178:57428 requests connection cookie.
+[10:15:35] [connection] incoming connection: 10.183.224.178:57428 id: 0
+[10:15:35] [join] [RW]Robi has joined the server (0:10.183.224.178)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:17:08] filterscripts = ""  (string)
+[10:17:08] 
+[10:17:08] Server Plugins
+[10:17:08] --------------
+[10:17:08]  Loading plugin: mysql
+[10:17:08]  >> plugin.mysql: R39-3 successfully loaded.
+[10:17:08]   Loaded.
+[10:17:08]  Loading plugin: streamer
+[10:17:08] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:17:08]   Loaded.
+[10:17:08]  Loading plugin: sscanf
+[10:17:08] 
+
+[10:17:08]  ===============================
+
+[10:17:08]       sscanf plugin loaded.     
+
+[10:17:08]          Version:  2.8.1        
+
+[10:17:08]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:17:08]  ===============================
+
+[10:17:08]   Loaded.
+[10:17:08]  Loaded 3 plugins.
+
+[10:17:08] 
+[10:17:08] Filterscripts
+[10:17:08] ---------------
+[10:17:08]   Loaded 0 filterscripts.
+
+[10:17:09] 
+----------------------------------
+[10:17:09]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[10:17:09] ----------------------------------
+
+[10:17:09] Number of vehicle models: 0
+[10:17:20] [connection] 10.183.224.178:63614 requests connection cookie.
+[10:17:21] [connection] incoming connection: 10.183.224.178:63614 id: 0
+[10:17:21] [join] [RW]Robi has joined the server (0:10.183.224.178)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:18:41] filterscripts = ""  (string)
+[10:18:41] 
+[10:18:41] Server Plugins
+[10:18:41] --------------
+[10:18:41]  Loading plugin: mysql
+[10:18:41]  >> plugin.mysql: R39-3 successfully loaded.
+[10:18:41]   Loaded.
+[10:18:41]  Loading plugin: streamer
+[10:18:41] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:18:41]   Loaded.
+[10:18:41]  Loading plugin: sscanf
+[10:18:41] 
+
+[10:18:41]  ===============================
+
+[10:18:41]       sscanf plugin loaded.     
+
+[10:18:41]          Version:  2.8.1        
+
+[10:18:41]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:18:41]  ===============================
+
+[10:18:41]   Loaded.
+[10:18:41]  Loaded 3 plugins.
+
+[10:18:41] 
+[10:18:41] Filterscripts
+[10:18:41] ---------------
+[10:18:41]   Loaded 0 filterscripts.
+
+[10:18:41] 
+----------------------------------
+[10:18:41]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[10:18:41] ----------------------------------
+
+[10:18:41] Number of vehicle models: 0
+[10:18:52] [connection] 10.183.224.178:56233 requests connection cookie.
+[10:18:53] [connection] incoming connection: 10.183.224.178:56233 id: 0
+[10:18:54] [join] [RW]Robi has joined the server (0:10.183.224.178)
+[10:18:58] [part] [RW]Robi has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:19:51] filterscripts = ""  (string)
+[10:19:51] 
+[10:19:51] Server Plugins
+[10:19:51] --------------
+[10:19:51]  Loading plugin: mysql
+[10:19:51]  >> plugin.mysql: R39-3 successfully loaded.
+[10:19:51]   Loaded.
+[10:19:51]  Loading plugin: streamer
+[10:19:51] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:19:51]   Loaded.
+[10:19:51]  Loading plugin: sscanf
+[10:19:51] 
+
+[10:19:51]  ===============================
+
+[10:19:51]       sscanf plugin loaded.     
+
+[10:19:51]          Version:  2.8.1        
+
+[10:19:51]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:19:51]  ===============================
+
+[10:19:51]   Loaded.
+[10:19:51]  Loaded 3 plugins.
+
+[10:19:51] 
+[10:19:51] Filterscripts
+[10:19:51] ---------------
+[10:19:51]   Loaded 0 filterscripts.
+
+[10:19:52] 
+----------------------------------
+[10:19:52]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[10:19:52] ----------------------------------
+
+[10:19:52] Number of vehicle models: 0
+[10:21:02] [connection] 10.183.224.178:56022 requests connection cookie.
+[10:21:03] [connection] incoming connection: 10.183.224.178:56022 id: 0
+[10:21:04] [join] [RW]Robi has joined the server (0:10.183.224.178)
+[10:21:07] [part] [RW]Robi has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:23:07] filterscripts = ""  (string)
+[10:23:07] 
+[10:23:07] Server Plugins
+[10:23:07] --------------
+[10:23:07]  Loading plugin: mysql
+[10:23:07]  >> plugin.mysql: R39-3 successfully loaded.
+[10:23:07]   Loaded.
+[10:23:07]  Loading plugin: streamer
+[10:23:07] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:23:07]   Loaded.
+[10:23:07]  Loading plugin: sscanf
+[10:23:07] 
+
+[10:23:07]  ===============================
+
+[10:23:07]       sscanf plugin loaded.     
+
+[10:23:07]          Version:  2.8.1        
+
+[10:23:07]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:23:07]  ===============================
+
+[10:23:07]   Loaded.
+[10:23:07]  Loaded 3 plugins.
+
+[10:23:07] 
+[10:23:07] Filterscripts
+[10:23:07] ---------------
+[10:23:07]   Loaded 0 filterscripts.
+
+[10:23:07] Conectiunea la baza de date a fost stabilita
+[10:23:07] 
+----------------------------------
+[10:23:07]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[10:23:07] ----------------------------------
+
+[10:23:07] Number of vehicle models: 0
+[10:23:49] [connection] 10.183.224.178:60418 requests connection cookie.
+[10:23:50] [connection] incoming connection: 10.183.224.178:60418 id: 0
+[10:23:50] [join] [RW]Robi has joined the server (0:10.183.224.178)
+[10:23:56] [part] [RW]Robi has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:25:33] filterscripts = ""  (string)
+[10:25:33] 
+[10:25:33] Server Plugins
+[10:25:33] --------------
+[10:25:33]  Loading plugin: mysql
+[10:25:33]  >> plugin.mysql: R39-3 successfully loaded.
+[10:25:33]   Loaded.
+[10:25:33]  Loading plugin: streamer
+[10:25:33] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:25:33]   Loaded.
+[10:25:33]  Loading plugin: sscanf
+[10:25:33] 
+
+[10:25:33]  ===============================
+
+[10:25:33]       sscanf plugin loaded.     
+
+[10:25:33]          Version:  2.8.1        
+
+[10:25:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:25:33]  ===============================
+
+[10:25:33]   Loaded.
+[10:25:33]  Loaded 3 plugins.
+
+[10:25:33] 
+[10:25:33] Filterscripts
+[10:25:33] ---------------
+[10:25:33]   Loaded 0 filterscripts.
+
+[10:25:33] Conectiunea la baza de date a fost stabilita
+[10:25:33] 
+----------------------------------
+[10:25:33]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[10:25:33] ----------------------------------
+
+[10:25:33] Number of vehicle models: 0
+[10:26:09] [connection] 10.183.224.178:59054 requests connection cookie.
+[10:26:10] [connection] incoming connection: 10.183.224.178:59054 id: 0
+[10:26:10] [join] [RW]Robi has joined the server (0:10.183.224.178)
+[10:26:17] INSERT INTO `users` (`name`,`password`) VALUES (`[RW]Robi`,`123456`)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:28:23] filterscripts = ""  (string)
+[10:28:23] 
+[10:28:23] Server Plugins
+[10:28:23] --------------
+[10:28:23]  Loading plugin: mysql
+[10:28:23]  >> plugin.mysql: R39-3 successfully loaded.
+[10:28:23]   Loaded.
+[10:28:23]  Loading plugin: streamer
+[10:28:23] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:28:23]   Loaded.
+[10:28:23]  Loading plugin: sscanf
+[10:28:23] 
+
+[10:28:23]  ===============================
+
+[10:28:23]       sscanf plugin loaded.     
+
+[10:28:23]          Version:  2.8.1        
+
+[10:28:23]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:28:23]  ===============================
+
+[10:28:23]   Loaded.
+[10:28:23]  Loaded 3 plugins.
+
+[10:28:24] 
+[10:28:24] Filterscripts
+[10:28:24] ---------------
+[10:28:24]   Loaded 0 filterscripts.
+
+[10:28:24] Conectiunea la baza de date a fost stabilita
+[10:28:24] 
+----------------------------------
+[10:28:24]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[10:28:24] ----------------------------------
+
+[10:28:24] Number of vehicle models: 0
+[10:28:37] [connection] 10.183.224.178:50646 requests connection cookie.
+[10:28:38] [connection] incoming connection: 10.183.224.178:50646 id: 0
+[10:28:38] [join] [RW]Robi has joined the server (0:10.183.224.178)
+[10:28:47] INSERT INTO `users` (`name`,`password`) VALUES (`[RW]Robi`,`123456`)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:33:21] filterscripts = ""  (string)
+[10:33:21] 
+[10:33:21] Server Plugins
+[10:33:21] --------------
+[10:33:21]  Loading plugin: mysql
+[10:33:21]  >> plugin.mysql: R39-3 successfully loaded.
+[10:33:21]   Loaded.
+[10:33:21]  Loading plugin: streamer
+[10:33:21] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:33:21]   Loaded.
+[10:33:21]  Loading plugin: sscanf
+[10:33:21] 
+
+[10:33:21]  ===============================
+
+[10:33:21]       sscanf plugin loaded.     
+
+[10:33:21]          Version:  2.8.1        
+
+[10:33:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:33:21]  ===============================
+
+[10:33:21]   Loaded.
+[10:33:21]  Loaded 3 plugins.
+
+[10:33:21] 
+[10:33:21] Filterscripts
+[10:33:21] ---------------
+[10:33:21]   Loaded 0 filterscripts.
+
+[10:33:21] Conectiunea la baza de date a fost stabilita
+[10:33:21] 
+----------------------------------
+[10:33:21]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[10:33:21] ----------------------------------
+
+[10:33:21] Number of vehicle models: 0
+[10:33:26] [connection] 10.183.224.178:65336 requests connection cookie.
+[10:33:27] [connection] incoming connection: 10.183.224.178:65336 id: 0
+[10:33:28] [join] [RW]Robi has joined the server (0:10.183.224.178)
+[10:33:36] INSERT INTO `users` (`name`,`password`) VALUES ('[RW]Robi','123456')
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:45:57] filterscripts = ""  (string)
+[10:45:57] 
+[10:45:57] Server Plugins
+[10:45:57] --------------
+[10:45:57]  Loading plugin: mysql
+[10:45:57]  >> plugin.mysql: R39-3 successfully loaded.
+[10:45:57]   Loaded.
+[10:45:57]  Loading plugin: streamer
+[10:45:57] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:45:57]   Loaded.
+[10:45:57]  Loading plugin: sscanf
+[10:45:57] 
+
+[10:45:57]  ===============================
+
+[10:45:57]       sscanf plugin loaded.     
+
+[10:45:57]          Version:  2.8.1        
+
+[10:45:57]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:45:57]  ===============================
+
+[10:45:57]   Loaded.
+[10:45:57]  Loaded 3 plugins.
+
+[10:45:57] 
+[10:45:57] Filterscripts
+[10:45:57] ---------------
+[10:45:57]   Loaded 0 filterscripts.
+
+[10:45:57] Conectiunea la baza de date a fost stabilita
+[10:45:57] 
+----------------------------------
+[10:45:57]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[10:45:57] ----------------------------------
+
+[10:45:57] Number of vehicle models: 0
+[10:46:02] [connection] 10.183.224.178:51453 requests connection cookie.
+[10:46:03] [connection] incoming connection: 10.183.224.178:51453 id: 0
+[10:46:04] [join] [RW]Robi has joined the server (0:10.183.224.178)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:46:36] filterscripts = ""  (string)
+[10:46:36] 
+[10:46:36] Server Plugins
+[10:46:36] --------------
+[10:46:36]  Loading plugin: mysql
+[10:46:36]  >> plugin.mysql: R39-3 successfully loaded.
+[10:46:36]   Loaded.
+[10:46:36]  Loading plugin: streamer
+[10:46:36] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:46:36]   Loaded.
+[10:46:36]  Loading plugin: sscanf
+[10:46:36] 
+
+[10:46:36]  ===============================
+
+[10:46:36]       sscanf plugin loaded.     
+
+[10:46:36]          Version:  2.8.1        
+
+[10:46:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:46:36]  ===============================
+
+[10:46:36]   Loaded.
+[10:46:36]  Loaded 3 plugins.
+
+[10:46:37] 
+[10:46:37] Filterscripts
+[10:46:37] ---------------
+[10:46:37]   Loaded 0 filterscripts.
+
+[10:46:37] Conectiunea la baza de date a fost stabilita
+[10:46:37] 
+----------------------------------
+[10:46:37]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[10:46:37] ----------------------------------
+
+[10:46:37] Number of vehicle models: 0
+[10:46:51] [connection] 10.183.224.178:59267 requests connection cookie.
+[10:46:52] [connection] incoming connection: 10.183.224.178:59267 id: 0
+[10:46:52] [join] [RW]Robi has joined the server (0:10.183.224.178)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:42:39] filterscripts = ""  (string)
+[13:42:39] 
+[13:42:39] Server Plugins
+[13:42:39] --------------
+[13:42:39]  Loading plugin: mysql
+[13:42:39]  >> plugin.mysql: R39-3 successfully loaded.
+[13:42:39]   Loaded.
+[13:42:39]  Loading plugin: streamer
+[13:42:39] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[13:42:39]   Loaded.
+[13:42:39]  Loading plugin: sscanf
+[13:42:40] 
+
+[13:42:40]  ===============================
+
+[13:42:40]       sscanf plugin loaded.     
+
+[13:42:40]          Version:  2.8.1        
+
+[13:42:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:42:40]  ===============================
+
+[13:42:40]   Loaded.
+[13:42:40]  Loaded 3 plugins.
+
+[13:42:40] 
+[13:42:40] Filterscripts
+[13:42:40] ---------------
+[13:42:40]   Loaded 0 filterscripts.
+
+[13:42:40] Conectiunea la baza de date a fost stabilita
+[13:42:40] 
+----------------------------------
+[13:42:40]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[13:42:40] ----------------------------------
+
+[13:42:40] Number of vehicle models: 0
+[13:43:41] [connection] 10.134.223.171:51315 requests connection cookie.
+[13:43:42] [connection] incoming connection: 10.134.223.171:51315 id: 0
+[13:43:42] [join] [RW]Robi has joined the server (0:10.134.223.171)
+[13:44:14] [part] [RW]Robi has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:45:01] filterscripts = ""  (string)
+[13:45:01] 
+[13:45:01] Server Plugins
+[13:45:01] --------------
+[13:45:01]  Loading plugin: mysql
+[13:45:01]  >> plugin.mysql: R39-3 successfully loaded.
+[13:45:01]   Loaded.
+[13:45:01]  Loading plugin: streamer
+[13:45:01] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[13:45:01]   Loaded.
+[13:45:01]  Loading plugin: sscanf
+[13:45:01] 
+
+[13:45:01]  ===============================
+
+[13:45:01]       sscanf plugin loaded.     
+
+[13:45:01]          Version:  2.8.1        
+
+[13:45:01]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:45:01]  ===============================
+
+[13:45:01]   Loaded.
+[13:45:01]  Loaded 3 plugins.
+
+[13:45:01] 
+[13:45:01] Filterscripts
+[13:45:01] ---------------
+[13:45:01]   Loaded 0 filterscripts.
+
+[13:45:01] Conectiunea la baza de date a fost stabilita
+[13:45:01] 
+----------------------------------
+[13:45:01]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[13:45:01] ----------------------------------
+
+[13:45:01] Number of vehicle models: 0
+[13:45:32] [connection] 10.134.223.171:51345 requests connection cookie.
+[13:45:33] [connection] incoming connection: 10.134.223.171:51345 id: 0
+[13:45:33] [join] [RW]Robi has joined the server (0:10.134.223.171)
+[13:45:57] [part] [RW]Robi has left the server (0:1)
+[13:46:23] [connection] 10.134.223.171:50058 requests connection cookie.
+[13:46:24] [connection] incoming connection: 10.134.223.171:50058 id: 0
+[13:46:24] [join] [RW]Robi has joined the server (0:10.134.223.171)
+[13:46:37] [part] [RW]Robi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:55:04] filterscripts = ""  (string)
+[13:55:04] 
+[13:55:04] Server Plugins
+[13:55:04] --------------
+[13:55:04]  Loading plugin: mysql
+[13:55:04]  >> plugin.mysql: R39-3 successfully loaded.
+[13:55:04]   Loaded.
+[13:55:04]  Loading plugin: streamer
+[13:55:04] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[13:55:04]   Loaded.
+[13:55:04]  Loading plugin: sscanf
+[13:55:04] 
+
+[13:55:04]  ===============================
+
+[13:55:04]       sscanf plugin loaded.     
+
+[13:55:04]          Version:  2.8.1        
+
+[13:55:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:55:04]  ===============================
+
+[13:55:04]   Loaded.
+[13:55:04]  Loaded 3 plugins.
+
+[13:55:04] 
+[13:55:04] Filterscripts
+[13:55:04] ---------------
+[13:55:04]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:57:26] filterscripts = ""  (string)
+[13:57:26] 
+[13:57:26] Server Plugins
+[13:57:26] --------------
+[13:57:26]  Loading plugin: mysql
+[13:57:26]  >> plugin.mysql: R39-3 successfully loaded.
+[13:57:26]   Loaded.
+[13:57:26]  Loading plugin: streamer
+[13:57:26] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[13:57:26]   Loaded.
+[13:57:26]  Loading plugin: sscanf
+[13:57:26] 
+
+[13:57:26]  ===============================
+
+[13:57:26]       sscanf plugin loaded.     
+
+[13:57:26]          Version:  2.8.1        
+
+[13:57:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:57:26]  ===============================
+
+[13:57:26]   Loaded.
+[13:57:26]  Loaded 3 plugins.
+
+[13:57:26] 
+[13:57:26] Filterscripts
+[13:57:26] ---------------
+[13:57:26]   Loaded 0 filterscripts.
+
+[13:57:26] Conectiunea la baza de date a fost stabilita
+[13:57:26] 
+----------------------------------
+[13:57:26]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[13:57:26] ----------------------------------
+
+[13:57:26] Number of vehicle models: 0
+[13:58:35] [connection] 10.134.223.171:59158 requests connection cookie.
+[13:58:36] [connection] incoming connection: 10.134.223.171:59158 id: 0
+[13:58:36] [join] [RW]Robi has joined the server (0:10.134.223.171)
+[13:58:50] [part] [RW]Robi has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:59:37] filterscripts = ""  (string)
+[13:59:37] 
+[13:59:37] Server Plugins
+[13:59:37] --------------
+[13:59:37]  Loading plugin: mysql
+[13:59:37]  >> plugin.mysql: R39-3 successfully loaded.
+[13:59:37]   Loaded.
+[13:59:37]  Loading plugin: streamer
+[13:59:37] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[13:59:37]   Loaded.
+[13:59:37]  Loading plugin: sscanf
+[13:59:37] 
+
+[13:59:37]  ===============================
+
+[13:59:37]       sscanf plugin loaded.     
+
+[13:59:37]          Version:  2.8.1        
+
+[13:59:37]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:59:37]  ===============================
+
+[13:59:37]   Loaded.
+[13:59:37]  Loaded 3 plugins.
+
+[13:59:37] 
+[13:59:37] Filterscripts
+[13:59:37] ---------------
+[13:59:37]   Loaded 0 filterscripts.
+
+[13:59:37] Database connection successfully
+[13:59:37] 
+----------------------------------
+[13:59:37]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[13:59:37] ----------------------------------
+
+[13:59:37] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:14:01] filterscripts = ""  (string)
+[01:14:01] 
+[01:14:01] Server Plugins
+[01:14:01] --------------
+[01:14:01]  Loading plugin: mysql
+[01:14:02]  >> plugin.mysql: R39-3 successfully loaded.
+[01:14:02]   Loaded.
+[01:14:02]  Loading plugin: streamer
+[01:14:02] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[01:14:02]   Loaded.
+[01:14:02]  Loading plugin: sscanf
+[01:14:02] 
+
+[01:14:02]  ===============================
+
+[01:14:02]       sscanf plugin loaded.     
+
+[01:14:02]          Version:  2.8.1        
+
+[01:14:02]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:14:02]  ===============================
+
+[01:14:02]   Loaded.
+[01:14:02]  Loaded 3 plugins.
+
+[01:14:02] 
+[01:14:02] Filterscripts
+[01:14:02] ---------------
+[01:14:02]   Loaded 0 filterscripts.
+
+[01:14:02] Database connection problem
+[01:14:02] 
+----------------------------------
+[01:14:02]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[01:14:02] ----------------------------------
+
+[01:14:02] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:28:04] filterscripts = ""  (string)
+[01:28:04] 
+[01:28:04] Server Plugins
+[01:28:04] --------------
+[01:28:04]  Loading plugin: mysql
+[01:28:04]  >> plugin.mysql: R39-3 successfully loaded.
+[01:28:04]   Loaded.
+[01:28:04]  Loading plugin: streamer
+[01:28:04] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[01:28:04]   Loaded.
+[01:28:04]  Loading plugin: sscanf
+[01:28:04] 
+
+[01:28:04]  ===============================
+
+[01:28:04]       sscanf plugin loaded.     
+
+[01:28:04]          Version:  2.8.1        
+
+[01:28:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:28:04]  ===============================
+
+[01:28:04]   Loaded.
+[01:28:04]  Loaded 3 plugins.
+
+[01:28:04] 
+[01:28:04] Filterscripts
+[01:28:04] ---------------
+[01:28:04]   Loaded 0 filterscripts.
+
+[01:28:04] Database connection successfully
+[01:28:04] 
+----------------------------------
+[01:28:04]  BLANK GAMEMODE - SA-MP.RO by [RW]Robi, loaded!
+[01:28:04] ----------------------------------
+
+[01:28:04] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:01:57] filterscripts = ""  (string)
+[21:01:57] 
+[21:01:57] Server Plugins
+[21:01:57] --------------
+[21:01:57]  Loading plugin: mysql
+[21:01:57]  >> plugin.mysql: R39-3 successfully loaded.
+[21:01:57]   Loaded.
+[21:01:57]  Loading plugin: streamer
+[21:01:57] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:01:57]   Loaded.
+[21:01:57]  Loading plugin: sscanf
+[21:01:57] 
+
+[21:01:57]  ===============================
+
+[21:01:57]       sscanf plugin loaded.     
+
+[21:01:57]          Version:  2.8.1        
+
+[21:01:57]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:01:57]  ===============================
+
+[21:01:57]   Loaded.
+[21:01:57]  Loaded 3 plugins.
+
+[21:01:58] 
+[21:01:58] Filterscripts
+[21:01:58] ---------------
+[21:01:58]   Loaded 0 filterscripts.
+
+[21:01:58] Database connection successfully
+[21:01:58] 
+----------------------------------
+[21:01:58]  B R I G A D A   S C R I P T E R I L O R!
+[21:01:58] ----------------------------------
+
+[21:01:58] Number of vehicle models: 0
+[21:02:24] [connection] 127.0.0.1:59076 requests connection cookie.
+[21:02:25] [connection] incoming connection: 127.0.0.1:59076 id: 0
+[21:02:25] [join] Maurice has joined the server (0:127.0.0.1)
+[21:02:40] [part] Maurice has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:03:26] filterscripts = ""  (string)
+[21:03:26] 
+[21:03:26] Server Plugins
+[21:03:26] --------------
+[21:03:26]  Loading plugin: mysql
+[21:03:26]  >> plugin.mysql: R39-3 successfully loaded.
+[21:03:26]   Loaded.
+[21:03:26]  Loading plugin: streamer
+[21:03:26] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:03:26]   Loaded.
+[21:03:26]  Loading plugin: sscanf
+[21:03:26] 
+
+[21:03:26]  ===============================
+
+[21:03:26]       sscanf plugin loaded.     
+
+[21:03:26]          Version:  2.8.1        
+
+[21:03:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:03:26]  ===============================
+
+[21:03:26]   Loaded.
+[21:03:26]  Loaded 3 plugins.
+
+[21:03:26] 
+[21:03:26] Filterscripts
+[21:03:26] ---------------
+[21:03:26]   Loaded 0 filterscripts.
+
+[21:03:26] Database connection successfully
+[21:03:26] 
+----------------------------------
+[21:03:26]  B R I G A D A   S C R I P T E R I L O R!
+[21:03:26] ----------------------------------
+
+[21:03:26] Number of vehicle models: 0
+[21:03:46] [connection] 127.0.0.1:64667 requests connection cookie.
+[21:03:47] [connection] incoming connection: 127.0.0.1:64667 id: 0
+[21:03:50] [join] Maurice has joined the server (0:127.0.0.1)
+[21:04:01] [part] Maurice has left the server (0:1)
+[21:23:36] [connection] 127.0.0.1:49794 requests connection cookie.
+[21:23:37] [connection] incoming connection: 127.0.0.1:49794 id: 0
+[21:23:37] [join] Maurice has joined the server (0:127.0.0.1)
+[21:25:38] RCON (In-Game): Player #0 (Maurice) failed login.
+[21:26:08] RCON (In-Game): Player #0 (Maurice) has logged in.
+[21:26:09] RCON (In-Game): Player [Maurice] sent command: gmx
+[21:26:21] Database connection successfully
+[21:26:21] 
+----------------------------------
+[21:26:21]  B R I G A D A   S C R I P T E R I L O R!
+[21:26:21] ----------------------------------
+
+[21:26:21] Number of vehicle models: 0
+Console input: gmx
+[21:59:07] RCON (In-Game): Player [Maurice] sent command: login sa-mp.ro
+[21:59:13] RCON (In-Game): Player [Maurice] sent command: gmx
+[21:59:19] RCON (In-Game): Player [Maurice] sent command: login sa-mp.ro
+[21:59:21] RCON (In-Game): Player [Maurice] sent command: login maurice
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:59:36] filterscripts = ""  (string)
+[21:59:36] 
+[21:59:36] Server Plugins
+[21:59:36] --------------
+[21:59:36]  Loading plugin: mysql
+[21:59:36]  >> plugin.mysql: R39-3 successfully loaded.
+[21:59:36]   Loaded.
+[21:59:36]  Loading plugin: streamer
+[21:59:36] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:59:36]   Loaded.
+[21:59:36]  Loading plugin: sscanf
+[21:59:36] 
+
+[21:59:36]  ===============================
+
+[21:59:36]       sscanf plugin loaded.     
+
+[21:59:36]          Version:  2.8.1        
+
+[21:59:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:59:36]  ===============================
+
+[21:59:36]   Loaded.
+[21:59:36]  Loaded 3 plugins.
+
+[21:59:36] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:59:36] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:59:38] filterscripts = ""  (string)
+[21:59:38] 
+[21:59:38] Server Plugins
+[21:59:38] --------------
+[21:59:38]  Loading plugin: mysql
+[21:59:38]  >> plugin.mysql: R39-3 successfully loaded.
+[21:59:38]   Loaded.
+[21:59:38]  Loading plugin: streamer
+[21:59:38] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:59:38]   Loaded.
+[21:59:38]  Loading plugin: sscanf
+[21:59:38] 
+
+[21:59:38]  ===============================
+
+[21:59:38]       sscanf plugin loaded.     
+
+[21:59:38]          Version:  2.8.1        
+
+[21:59:38]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:59:38]  ===============================
+
+[21:59:38]   Loaded.
+[21:59:38]  Loaded 3 plugins.
+
+[21:59:38] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:59:38] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:00:26] filterscripts = ""  (string)
+[22:00:26] 
+[22:00:26] Server Plugins
+[22:00:26] --------------
+[22:00:26]  Loading plugin: mysql
+[22:00:26]  >> plugin.mysql: R39-3 successfully loaded.
+[22:00:26]   Loaded.
+[22:00:26]  Loading plugin: streamer
+[22:00:26] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[22:00:26]   Loaded.
+[22:00:26]  Loading plugin: sscanf
+[22:00:26] 
+
+[22:00:26]  ===============================
+
+[22:00:26]       sscanf plugin loaded.     
+
+[22:00:26]          Version:  2.8.1        
+
+[22:00:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:00:26]  ===============================
+
+[22:00:26]   Loaded.
+[22:00:26]  Loaded 3 plugins.
+
+[22:00:26] 
+[22:00:26] Filterscripts
+[22:00:26] ---------------
+[22:00:26]   Loaded 0 filterscripts.
+
+[22:00:26] Database connection successfully
+[22:00:26] 
+----------------------------------
+[22:00:26]  B R I G A D A   S C R I P T E R I L O R!
+[22:00:26] ----------------------------------
+
+[22:00:26] Number of vehicle models: 0
+[22:00:29] [connection] 127.0.0.1:63641 requests connection cookie.
+[22:00:30] [connection] incoming connection: 127.0.0.1:63641 id: 0
+[22:00:30] [join] Maurice has joined the server (0:127.0.0.1)
+Console input: gmx
+[22:01:15] Database connection successfully
+[22:01:15] !
+[22:01:15] 
+----------------------------------
+[22:01:15]  B R I G A D A   S C R I P T E R I L O R!
+[22:01:15] ----------------------------------
+
+[22:01:15] Number of vehicle models: 0
+Console input: gmx
+[22:03:32] Database connection successfully
+[22:03:32] !
+[22:03:32] 
+----------------------------------
+[22:03:32]  B R I G A D A   S C R I P T E R I L O R!
+[22:03:32] ----------------------------------
+
+[22:03:32] Number of vehicle models: 0
+Console input: gmx
+[22:04:33] Database connection successfully
+[22:04:33] !
+[22:04:33] 
+----------------------------------
+[22:04:33]  B R I G A D A   S C R I P T E R I L O R!
+[22:04:33] ----------------------------------
+
+[22:04:33] Number of vehicle models: 0
+Console input: gmx
+[22:05:48] Database connection successfully
+[22:05:48] !
+[22:05:48] 
+----------------------------------
+[22:05:48]  B R I G A D A   S C R I P T E R I L O R!
+[22:05:48] ----------------------------------
+
+[22:05:48] Number of vehicle models: 0
+Console input: gmx
+[22:12:13] Database connection successfully
+[22:12:13] 
+----------------------------------
+[22:12:13]  B R I G A D A   S C R I P T E R I L O R!
+[22:12:13] ----------------------------------
+
+[22:12:13] Number of vehicle models: 0
+Console input: gmx
+[22:16:04] Database connection successfully
+[22:16:04] 
+----------------------------------
+[22:16:04]  B R I G A D A   S C R I P T E R I L O R!
+[22:16:04] ----------------------------------
+
+[22:16:04] Number of vehicle models: 0
+Console input: gmx
+[22:26:09] Database connection successfully
+[22:26:09] 
+----------------------------------
+[22:26:09]  B R I G A D A   S C R I P T E R I L O R!
+[22:26:09] ----------------------------------
+
+[22:26:09] Number of vehicle models: 0
+Console input: gmx
+[22:32:47] Database connection successfully
+[22:32:47] 
+----------------------------------
+[22:32:47]  B R I G A D A   S C R I P T E R I L O R!
+[22:32:47] ----------------------------------
+
+[22:32:47] Number of vehicle models: 0
+Console input: gmx
+[22:34:42] Database connection successfully
+[22:34:42] 
+----------------------------------
+[22:34:42]  B R I G A D A   S C R I P T E R I L O R!
+[22:34:42] ----------------------------------
+
+[22:34:42] Number of vehicle models: 0
+Console input: gmx
+[22:40:32] Database connection successfully
+[22:40:32] 
+----------------------------------
+[22:40:32]  B R I G A D A   S C R I P T E R I L O R!
+[22:40:32] ----------------------------------
+
+[22:40:32] Number of vehicle models: 0
+Console input: gmx
+[22:41:55] Database connection successfully
+[22:41:55] 
+----------------------------------
+[22:41:55]  B R I G A D A   S C R I P T E R I L O R!
+[22:41:55] ----------------------------------
+
+[22:41:55] Number of vehicle models: 0
+[22:41:58] muie
+[22:41:58] Player  /enter
+Console input: gmx
+[22:47:46] Database connection successfully
+[22:47:46] 
+----------------------------------
+[22:47:46]  B R I G A D A   S C R I P T E R I L O R!
+[22:47:46] ----------------------------------
+
+[22:47:46] Number of vehicle models: 0
+[22:47:53] muie
+[22:47:53] Player  /enter
+Console input: gmx
+[22:49:32] Database connection successfully
+[22:49:32] 
+----------------------------------
+[22:49:32]  B R I G A D A   S C R I P T E R I L O R!
+[22:49:32] ----------------------------------
+
+[22:49:32] Number of vehicle models: 0
+Console input: gmx
+[22:52:15] Database connection successfully
+[22:52:15] 
+----------------------------------
+[22:52:15]  B R I G A D A   S C R I P T E R I L O R!
+[22:52:15] ----------------------------------
+
+[22:52:15] Number of vehicle models: 0
+[22:52:17] (null)
+[22:52:20] muie
+[22:52:20] Player  /enter
+Console input: gmx
+[22:52:55] Database connection successfully
+[22:52:55] 
+----------------------------------
+[22:52:55]  B R I G A D A   S C R I P T E R I L O R!
+[22:52:55] ----------------------------------
+
+[22:52:55] Number of vehicle models: 0
+[22:52:57] (null)
+[22:54:53] RCON (In-Game): Player #0 (Maurice) failed login.
+[22:54:58] RCON (In-Game): Player #0 (Maurice) failed login.
+[22:55:13] RCON (In-Game): Player #0 (Maurice) has logged in.
+[22:55:16] RCON (In-Game): Player [Maurice] sent command: gmx
+[22:55:28] Database connection successfully
+[22:55:28] 
+----------------------------------
+[22:55:28]  B R I G A D A   S C R I P T E R I L O R!
+[22:55:28] ----------------------------------
+
+[22:55:28] Number of vehicle models: 0
+[22:55:32] (null)
+[23:00:15] [part] Maurice has left the server (0:1)
+[23:00:33] [connection] 127.0.0.1:58831 requests connection cookie.
+[23:00:34] [connection] incoming connection: 127.0.0.1:58831 id: 0
+[23:00:34] [join] Maurice2 has joined the server (0:127.0.0.1)
+[23:00:39] (null)
+[23:00:44] muie
+[23:00:44] Player  /enter
+[23:00:45] [part] Maurice2 has left the server (0:1)
+[23:01:02] [connection] 127.0.0.1:55666 requests connection cookie.
+[23:01:03] [connection] incoming connection: 127.0.0.1:55666 id: 0
+[23:01:03] [join] Maurice2 has joined the server (0:127.0.0.1)
+[23:01:05] (null)
+[23:01:07] [part] Maurice2 has left the server (0:1)
+[23:01:21] [connection] 127.0.0.1:52072 requests connection cookie.
+[23:01:22] [connection] incoming connection: 127.0.0.1:52072 id: 0
+[23:01:22] [join] Maurice has joined the server (0:127.0.0.1)
+[23:01:25] (null)
+Console input: gmxgmx
+[23:02:48] RCON (In-Game): Player #0 (Maurice) has logged in.
+[23:02:50] RCON (In-Game): Player [Maurice] sent command: gmx
+[23:03:02] Database connection successfully
+[23:03:02] 
+----------------------------------
+[23:03:02]  B R I G A D A   S C R I P T E R I L O R!
+[23:03:02] ----------------------------------
+
+[23:03:02] Number of vehicle models: 0
+[23:03:06] Maurice
+[23:03:16] muie
+[23:03:16] Player  /enter
+Console input: gmx
+[23:04:03] Database connection successfully
+[23:04:03] 
+----------------------------------
+[23:04:03]  B R I G A D A   S C R I P T E R I L O R!
+[23:04:03] ----------------------------------
+
+[23:04:03] Number of vehicle models: 0
+[23:04:04] Maurice
+[23:04:04] œ
+Console input: gmx
+[23:06:35] Database connection successfully
+[23:06:35] 
+----------------------------------
+[23:06:35]  B R I G A D A   S C R I P T E R I L O R!
+[23:06:35] ----------------------------------
+
+[23:06:35] Number of vehicle models: 0
+[23:06:37] Maurice
+[23:06:37] œ
+[23:06:41] muie
+[23:06:41] Player  /enter
+Console input: gmx
+[23:10:51] Database connection successfully
+[23:10:51] 
+----------------------------------
+[23:10:51]  B R I G A D A   S C R I P T E R I L O R!
+[23:10:51] ----------------------------------
+
+[23:10:51] Number of vehicle models: 0
+[23:10:52] 412
+[23:10:56] muie
+[23:10:56] Player Maurice /enter
+[23:14:01] RCON (In-Game): Player [Maurice] sent command: gmx
+[23:14:01] Database connection successfully
+[23:14:01] 
+----------------------------------
+[23:14:01]  B R I G A D A   S C R I P T E R I L O R!
+[23:14:01] ----------------------------------
+
+[23:14:01] Number of vehicle models: 0
+Console input: gmx
+[23:14:14] Database connection successfully
+[23:14:14] 
+----------------------------------
+[23:14:14]  B R I G A D A   S C R I P T E R I L O R!
+[23:14:14] ----------------------------------
+
+[23:14:14] Number of vehicle models: 0
+[23:14:21] muie
+[23:14:21] Player Maurice /enter
+Console input: gmx
+[23:33:10] Database connection successfully
+[23:33:10] 
+----------------------------------
+[23:33:10]  B R I G A D A   S C R I P T E R I L O R!
+[23:33:10] ----------------------------------
+
+[23:33:10] Number of vehicle models: 0
+[23:33:22] Player Maurice /enter
+[23:33:25] Player Maurice /enter
